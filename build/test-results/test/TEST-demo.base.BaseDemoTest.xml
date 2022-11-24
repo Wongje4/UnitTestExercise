@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.base.BaseDemoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-24T01:46:02" hostname="wongs-MacBook-Pro.local" time="0.012">
+  <properties/>
+  <testcase name="should_return_90()" classname="demo.base.BaseDemoTest" time="0.009"/>
+  <testcase name="should_return_hello_world()" classname="demo.base.BaseDemoTest" time="0.002"/>
+  <testcase name="should_return_100()" classname="demo.base.BaseDemoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
